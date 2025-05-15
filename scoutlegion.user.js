@@ -6,8 +6,8 @@
 // @description  Очередная модификация мода на шаблоны, но теперь для разведки
 // @match        http*://*.catwar.net/*
 // @match        http*://*.catwar.su/*
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/sleepwalkghost/Scout-Legion/raw/refs/heads/main/scoutlegion.user.js
+// @downloadURL  https://github.com/sleepwalkghost/Scout-Legion/raw/refs/heads/main/scoutlegion.user.js
 
 // ==/UserScript==
 
